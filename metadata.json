@@ -1,0 +1,6 @@
+{
+  "name": "中国生物分类与演化知识图谱系统",
+  "description": "面向生物分类学学习与中国常见动植物数据管理的交互式系统，融合界门纲目科属种层级检索、D3演化树与知识图谱可视化、数据采集同步及AI分类补全。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
